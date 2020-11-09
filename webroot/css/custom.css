@@ -1,0 +1,11 @@
+html body{
+    height:auto!important;
+}
+input:focus{
+    border:3px solid blue;
+}
+
+.file {
+  visibility: hidden;
+  position: absolute;
+}
